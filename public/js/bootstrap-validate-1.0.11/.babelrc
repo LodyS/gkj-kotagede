@@ -1,0 +1,9 @@
+{
+  "presets": ["env"],
+  "plugins": ["array-includes"],
+  "env": {
+    "test": {
+      "plugins": ["istanbul"]
+    }
+  }
+}
